@@ -8,6 +8,16 @@ This project introduces a **Temporal Emotional Drift Analysis** framework design
 
 The proposed approach focuses not only on what users express at a given moment but also on how their emotional state changes over time, enabling more effective early risk detection.
 
+## Architecture
+
+![Architecture](images/architecture.png)
+
+## Model Performance
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+![Performance Metrics](images/performance_metrics.png)
+
 
 
 ## Key Features
