@@ -10,13 +10,13 @@ The proposed approach focuses not only on what users express at a given moment b
 
 ## Architecture
 
-![Architecture](images/architecture.png)
+![Architecture](images/architecture.jpg)
 
 ## Model Performance
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.jpg)
 
-![Performance Metrics](images/performance_metrics.png)
+![Performance Metrics](images/performance_metrics.jpg)
 
 
 
